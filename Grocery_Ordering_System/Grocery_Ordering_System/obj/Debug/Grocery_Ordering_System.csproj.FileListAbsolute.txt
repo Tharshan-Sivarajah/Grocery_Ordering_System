@@ -1,0 +1,134 @@
+C:\Users\Lenovo\Desktop\Grocery_Ordering_System\Grocery_Ordering_System\bin\Debug\Grocery_Ordering_System.exe.config
+C:\Users\Lenovo\Desktop\Grocery_Ordering_System\Grocery_Ordering_System\bin\Debug\Grocery_Ordering_System.exe
+C:\Users\Lenovo\Desktop\Grocery_Ordering_System\Grocery_Ordering_System\bin\Debug\Grocery_Ordering_System.pdb
+C:\Users\Lenovo\Desktop\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Form1.resources
+C:\Users\Lenovo\Desktop\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.exe
+C:\Users\Lenovo\Desktop\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.pdb
+C:\Users\Lenovo\Desktop\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.login.resources
+D:\Grocery_Ordering_System\Grocery_Ordering_System\bin\Debug\Grocery_Ordering_System.exe.config
+D:\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.exe
+D:\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.pdb
+C:\Users\Msi-Pc\Desktop\Grocery_Ordering_System\Grocery_Ordering_System\bin\Debug\Grocery_Ordering_System.exe.config
+C:\Users\Msi-Pc\Desktop\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.exe
+C:\Users\Msi-Pc\Desktop\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.pdb
+C:\Users\Msi-Pc\Desktop\Grocery_Ordering_System\Grocery_Ordering_System\bin\Debug\Grocery_Ordering_System.exe
+C:\Users\Msi-Pc\Desktop\Grocery_Ordering_System\Grocery_Ordering_System\bin\Debug\Grocery_Ordering_System.pdb
+C:\Users\Msi-Pc\Desktop\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.csprojResolveAssemblyReference.cache
+C:\Users\Msi-Pc\Desktop\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Customer_Details.resources
+C:\Users\Msi-Pc\Desktop\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Form1.resources
+C:\Users\Msi-Pc\Desktop\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Item_Details.resources
+C:\Users\Msi-Pc\Desktop\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.login.resources
+C:\Users\Msi-Pc\Desktop\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.New_Customer_Reg.resources
+C:\Users\Msi-Pc\Desktop\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Order_Details.resources
+C:\Users\Msi-Pc\Desktop\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Properties.Resources.resources
+C:\Users\Msi-Pc\Desktop\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.csproj.GenerateResource.Cache
+C:\Users\Msi-Pc\Desktop\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Admin.resources
+C:\Users\Msi-Pc\Desktop\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Settings.resources
+C:\Users\Msi-Pc\Desktop\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.sales_customer.resources
+C:\Users\Msi-Pc\Desktop\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Sales_Admin.resources
+C:\Users\Msi-Pc\Desktop\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Order_Management.resources
+C:\Users\ICT-PC-19.DESKTOP-K74QST8\Desktop\New folder\Grocery_Ordering_System\Grocery_Ordering_System\bin\Debug\Grocery_Ordering_System.exe.config
+C:\Users\ICT-PC-19.DESKTOP-K74QST8\Desktop\New folder\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.exe
+C:\Users\ICT-PC-19.DESKTOP-K74QST8\Desktop\New folder\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.pdb
+C:\Users\ICT-PC-19.DESKTOP-K74QST8\Desktop\New folder\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.csprojResolveAssemblyReference.cache
+C:\Users\ICT-PC-19.DESKTOP-K74QST8\Desktop\New folder\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Admin.resources
+C:\Users\ICT-PC-19.DESKTOP-K74QST8\Desktop\New folder\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Customer_Details.resources
+C:\Users\ICT-PC-19.DESKTOP-K74QST8\Desktop\New folder\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Form1.resources
+C:\Users\ICT-PC-19.DESKTOP-K74QST8\Desktop\New folder\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Item_Details.resources
+C:\Users\ICT-PC-19.DESKTOP-K74QST8\Desktop\New folder\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.login.resources
+C:\Users\ICT-PC-19.DESKTOP-K74QST8\Desktop\New folder\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.New_Customer_Reg.resources
+C:\Users\ICT-PC-19.DESKTOP-K74QST8\Desktop\New folder\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Order_Details.resources
+C:\Users\ICT-PC-19.DESKTOP-K74QST8\Desktop\New folder\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Order_Management.resources
+C:\Users\ICT-PC-19.DESKTOP-K74QST8\Desktop\New folder\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Properties.Resources.resources
+C:\Users\ICT-PC-19.DESKTOP-K74QST8\Desktop\New folder\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Sales_Admin.resources
+C:\Users\ICT-PC-19.DESKTOP-K74QST8\Desktop\New folder\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.sales_customer.resources
+C:\Users\ICT-PC-19.DESKTOP-K74QST8\Desktop\New folder\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Settings.resources
+C:\Users\ICT-PC-19.DESKTOP-K74QST8\Desktop\New folder\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.csproj.GenerateResource.Cache
+C:\Users\ICT-PC-19.DESKTOP-K74QST8\Desktop\New folder\Grocery_Ordering_System\Grocery_Ordering_System\bin\Debug\Grocery_Ordering_System.exe
+C:\Users\ICT-PC-19.DESKTOP-K74QST8\Desktop\New folder\Grocery_Ordering_System\Grocery_Ordering_System\bin\Debug\Grocery_Ordering_System.pdb
+C:\Users\ICT-PC-19.DESKTOP-K74QST8\Desktop\Grocery_Ordering_System\Grocery_Ordering_System\bin\Debug\Grocery_Ordering_System.exe.config
+C:\Users\ICT-PC-19.DESKTOP-K74QST8\Desktop\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.exe
+C:\Users\ICT-PC-19.DESKTOP-K74QST8\Desktop\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.pdb
+C:\Users\ICT-PC-19.DESKTOP-K74QST8\Desktop\Grocery_Ordering_System\Grocery_Ordering_System\bin\Debug\Grocery_Ordering_System.exe
+C:\Users\ICT-PC-19.DESKTOP-K74QST8\Desktop\Grocery_Ordering_System\Grocery_Ordering_System\bin\Debug\Grocery_Ordering_System.pdb
+C:\Users\ICT-PC-19.DESKTOP-K74QST8\Desktop\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.csprojResolveAssemblyReference.cache
+C:\Users\ICT-PC-19.DESKTOP-K74QST8\Desktop\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Admin.resources
+C:\Users\ICT-PC-19.DESKTOP-K74QST8\Desktop\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Customer_Details.resources
+C:\Users\ICT-PC-19.DESKTOP-K74QST8\Desktop\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Form1.resources
+C:\Users\ICT-PC-19.DESKTOP-K74QST8\Desktop\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Item_Details.resources
+C:\Users\ICT-PC-19.DESKTOP-K74QST8\Desktop\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.login.resources
+C:\Users\ICT-PC-19.DESKTOP-K74QST8\Desktop\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.New_Customer_Reg.resources
+C:\Users\ICT-PC-19.DESKTOP-K74QST8\Desktop\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Order_Details.resources
+C:\Users\ICT-PC-19.DESKTOP-K74QST8\Desktop\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Order_Management.resources
+C:\Users\ICT-PC-19.DESKTOP-K74QST8\Desktop\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Properties.Resources.resources
+C:\Users\ICT-PC-19.DESKTOP-K74QST8\Desktop\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.sales_customer.resources
+C:\Users\ICT-PC-19.DESKTOP-K74QST8\Desktop\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Settings.resources
+C:\Users\ICT-PC-19.DESKTOP-K74QST8\Desktop\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.csproj.GenerateResource.Cache
+C:\Users\ICT-PC-19.DESKTOP-K74QST8\Desktop\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Admin_Sales.resources
+C:\Users\ICT-PC-19.DESKTOP-K74QST8\Desktop\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Order_Manage_Admin.resources
+D:\New folder (5)\step2\Grocery_Ordering_System\Grocery_Ordering_System\bin\Debug\Grocery_Ordering_System.exe.config
+D:\New folder (5)\step2\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.exe
+D:\New folder (5)\step2\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.pdb
+D:\New folder (5)\step2\Grocery_Ordering_System\Grocery_Ordering_System\bin\Debug\Grocery_Ordering_System.exe
+D:\New folder (5)\step2\Grocery_Ordering_System\Grocery_Ordering_System\bin\Debug\Grocery_Ordering_System.pdb
+D:\New folder (5)\step2\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.csprojResolveAssemblyReference.cache
+D:\New folder (5)\step2\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Admin.resources
+D:\New folder (5)\step2\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Admin_Sales.resources
+D:\New folder (5)\step2\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Customer_Details.resources
+D:\New folder (5)\step2\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Form1.resources
+D:\New folder (5)\step2\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Item_Details.resources
+D:\New folder (5)\step2\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.login.resources
+D:\New folder (5)\step2\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.New_Customer_Reg.resources
+D:\New folder (5)\step2\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Order_Details.resources
+D:\New folder (5)\step2\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Order_Management.resources
+D:\New folder (5)\step2\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Order_Manage_Admin.resources
+D:\New folder (5)\step2\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Properties.Resources.resources
+D:\New folder (5)\step2\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.sales_customer.resources
+D:\New folder (5)\step2\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Settings.resources
+D:\New folder (5)\step2\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.csproj.GenerateResource.Cache
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\New folder (5)\step2\Grocery_Ordering_System\Grocery_Ordering_System\bin\Debug\Grocery_Ordering_System.exe.config
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\New folder (5)\step2\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.exe
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\New folder (5)\step2\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.pdb
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\Tharshan\step2\Grocery_Ordering_System\Grocery_Ordering_System\bin\Debug\Grocery_Ordering_System.exe.config
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\Tharshan\step2\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.exe
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\Tharshan\step2\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.pdb
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\Tharshan\step2\Grocery_Ordering_System\Grocery_Ordering_System\bin\Debug\Grocery_Ordering_System.exe
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\Tharshan\step2\Grocery_Ordering_System\Grocery_Ordering_System\bin\Debug\Grocery_Ordering_System.pdb
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\Tharshan\step2\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.csprojResolveAssemblyReference.cache
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\Tharshan\step2\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Admin.resources
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\Tharshan\step2\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Admin_Sales.resources
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\Tharshan\step2\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Customer_Details.resources
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\Tharshan\step2\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Form1.resources
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\Tharshan\step2\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Item_Details.resources
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\Tharshan\step2\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.login.resources
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\Tharshan\step2\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.New_Customer_Reg.resources
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\Tharshan\step2\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Order_Details.resources
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\Tharshan\step2\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Order_Management.resources
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\Tharshan\step2\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Order_Manage_Admin.resources
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\Tharshan\step2\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Properties.Resources.resources
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\Tharshan\step2\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.sales_customer.resources
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\Tharshan\step2\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Settings.resources
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\Tharshan\step2\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.csproj.GenerateResource.Cache
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\Tharshan\Grocery_Ordering_System\Grocery_Ordering_System\bin\Debug\Grocery_Ordering_System.exe.config
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\Tharshan\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.exe
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\Tharshan\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.pdb
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\Tharshan\Grocery_Ordering_System\Grocery_Ordering_System\bin\Debug\Grocery_Ordering_System.exe
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\Tharshan\Grocery_Ordering_System\Grocery_Ordering_System\bin\Debug\Grocery_Ordering_System.pdb
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\Tharshan\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.csprojResolveAssemblyReference.cache
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\Tharshan\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Admin.resources
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\Tharshan\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Admin_Sales.resources
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\Tharshan\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Customer_Details.resources
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\Tharshan\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Form1.resources
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\Tharshan\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Item_Details.resources
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\Tharshan\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.login.resources
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\Tharshan\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.New_Customer_Reg.resources
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\Tharshan\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Order_Details.resources
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\Tharshan\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Order_Management.resources
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\Tharshan\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Order_Manage_Admin.resources
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\Tharshan\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Properties.Resources.resources
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\Tharshan\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.sales_customer.resources
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\Tharshan\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.Settings.resources
+C:\Users\ICT-PC-13.DESKTOP-RD16FOS\Desktop\Tharshan\Grocery_Ordering_System\Grocery_Ordering_System\obj\Debug\Grocery_Ordering_System.csproj.GenerateResource.Cache
